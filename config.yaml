@@ -1,0 +1,12 @@
+# Parameters for the dataset
+dataset_parameters:
+  T: 8
+  Tau: 3
+  Gamma: 4
+  Threshold: 0.7
+
+# Parameters for the QSM algorithm
+qsm_parameters:
+  stock_limit: 1.5
+  proj: 0
+  alg: 'parallel'
