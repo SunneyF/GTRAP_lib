@@ -1,5 +1,5 @@
 # GTRAP_lib
-
+```
 GTRAP_lib/
 │
 ├── algorithms/
@@ -15,7 +15,9 @@ GTRAP_lib/
 │   ├── __init__.py
 │   └── dataset.py
 │   └── Constant_data.csv
+│
 ├── config.yaml
+│
 ├── Results/
 │   ├── Instances/
 │   │   ├── 1.csv
@@ -24,6 +26,7 @@ GTRAP_lib/
 │   ├── __init__.py
 │   └── dataset.py
 │   └── Constant_data.csv
+│
 ├── common_utils/
 │   ├── Instances/
 │   │   ├── 1.csv
@@ -32,6 +35,7 @@ GTRAP_lib/
 │   ├── __init__.py
 │   └── dataset.py
 │   └── Constant_data.csv
+│
 ├── algorithms/
 │   ├── Instances/
 │   │   ├── 1.csv
@@ -40,4 +44,6 @@ GTRAP_lib/
 │   ├── __init__.py
 │   └── dataset.py
 │   └── Constant_data.csv
+│
 └── main.py
+```
